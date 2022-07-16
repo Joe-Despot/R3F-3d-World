@@ -1,0 +1,11 @@
+.nav--container {
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.nav-menuIcon {
+    width: 4em;
+    height: 4em;
+}
